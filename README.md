@@ -1,3 +1,5 @@
+## Love Test
+Love Test is just a fun and for bants created in Python with Tkinter Module. Enter 2 names and it will show a percentage. The higher the number the higher chance of those 2 falling in love!
 
 ## Remixing Ethically: A Note from the Author
 
